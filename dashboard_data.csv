@@ -1,5 +1,8 @@
-stock,current_price,entry_price,stop_loss,target_price,pnl_rs,pnl_pct,status,confidence,reason,holding_days
-RELIANCE.NS,2750.50,2650.00,2500.00,2950.00,100.50,3.79,HOLD,78.5,Strong uptrend with EMA confluence and RSI > 60,5
-HDFCBANK.NS,1845.25,1800.00,1750.00,1950.00,45.25,2.52,HOLD,72.3,Swing continuation above 200-day EMA,3
-INFY.NS,2150.75,2100.00,2000.00,2300.00,50.75,2.42,HOLD,65.8,Golden cross formation visible,7
-ITCI.NS,480.30,450.00,420.00,520.00,30.30,6.73,HOLD,81.2,Momentum swing breakout,2
+stock,current_price,entry_price,stop_loss,target_price,pnl_rs,pnl_pct,status,confidence,holding_days,quantity,rsi,ema_signal,volume_signal,support,resistance,reason
+RELIANCE.NS,2750.50,2650.00,2500.00,2950.00,100.50,3.79,HOLD,78.5,5,1,72.3,Positive,High,2450.00,3100.00,Strong uptrend with EMA confluence confirmed by volume
+HDFCBANK.NS,1845.25,1800.00,1750.00,1950.00,45.25,2.52,HOLD,72.3,3,2,68.9,Swing continuation above 200-day MA confirmed by bullish RSI
+INFY.NS,2150.75,2100.00,2000.00,2300.00,50.75,2.42,HOLD,65.8,7,1,Golden cross formation visible on daily chart momentum strong
+ICICIBANK.NS,480.30,450.00,420.00,520.00,30.30,6.73,HOLD,81.2,2,3,Momentum swing breakout level 2 chart pattern confirmed
+KOTAKBANK.NS,2340.00,2250.00,2100.00,2500.00,90.00,4.00,BUY,75.0,0,1,75.5,Strong buy,Very high,2050.00,2600.00,RSI60 EMA20>EMA50 Volume confirmation
+AXISBANK.NS,920.50,880.00,800.00,1000.00,40.50,4.60,HOLD,70.2,4,2,71.8,Positive,High,750.00,1050.00,Support/Resistance levels tight SL target rational
+TCS.NS,4000.00,3900.00,3650.00,4300.00,100.00,2.56,HOLD,68.5,6,1,65.2,Swing,Medium,3500.00,4500.00,Technical metrics included for complete signal
