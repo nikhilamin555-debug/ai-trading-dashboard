@@ -1,0 +1,5 @@
+stock,current_price,entry_price,stop_loss,target_price,pnl_rs,pnl_pct,status,confidence,reason,holding_days
+RELIANCE.NS,2750.50,2650.00,2500.00,2950.00,100.50,3.79,HOLD,78.5,Strong uptrend with EMA confluence and RSI > 60,5
+HDFCBANK.NS,1845.25,1800.00,1750.00,1950.00,45.25,2.52,HOLD,72.3,Swing continuation above 200-day EMA,3
+INFY.NS,2150.75,2100.00,2000.00,2300.00,50.75,2.42,HOLD,65.8,Golden cross formation visible,7
+ITCI.NS,480.30,450.00,420.00,520.00,30.30,6.73,HOLD,81.2,Momentum swing breakout,2
