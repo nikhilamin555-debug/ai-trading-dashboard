@@ -2,8 +2,5 @@ stock,current_price,entry_price,stop_loss,target_price,pnl_rs,pnl_pct,status,con
 INFY.NS,1619.7,1637.7,1539.44,1866.98,-18.00,-1.10,HOLD,65.8,7,Golden cross formation visible on daily
 TCS.NS,3219.8,3250.8,3055.75,3705.92,-31.00,-0.95,HOLD,68.5,6,Swing continuation pattern
 SBIN.NS,1004.95,983.9,924.87,1121.05,21.05,2.14,HOLD,72.3,3,Strong momentum play
-HDFCBANK.NS,1945.25,1800.00,1692.00,2052.00,145.25,8.07,HOLD,72.3,3,Swing continuation
 RELIANCE.NS,1477.00,1586.2,1490.23,1808.27,-109.20,-6.89,HOLD,68.9,1,Momentum swing breakout
 KOTAKBANK.NS,2340.00,2250.00,2115.00,2565.00,90.00,4.00,BUY,75.0,0,Strong buy signal
-AXISBANK.NS,920.50,880.00,827.20,1003.20,40.50,4.60,HOLD,70.2,4,Positive momentum
-ICICIBANK.NS,1404.00,1404.00,1319.76,1600.56,0.00,0.00,HOLD,81.2,2,Momentum swing breakout
